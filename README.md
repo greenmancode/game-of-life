@@ -18,14 +18,14 @@ Every cells' state is changed every update based on these rules:
 In this version, the first generation is created by iterating through each cell in the grid and giving each cell a 50% chance to be alive and if the cell does not become alive, it starts as dead.
 
 # Usage
-If you just want to run the game, go to the [releases](https://github.com/greenmancode/gameOfLife/releases) page and install the binary for your platform.
+If you just want to run the game, go to the [releases](https://github.com/greenmancode/game-of-life/releases) page and install the binary for your platform.
 
 The game uses an engine called [Love2D](https://love2d.org/) which is used to run the game (if you download the source code).
 
 1. Download Love2D for your platform
 2. Clone this repo using `git`
 ```bash
-$ git clone https://github.com/greenmancode/gameOfLife.git
+$ git clone https://github.com/greenmancode/game-of-life.git
 ```
 and make sure that your file structure looks like this:
 ```
