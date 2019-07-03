@@ -39,3 +39,5 @@ GOL
 ```bash
 $ love GOL
 ```
+
+If you are on Windows and `love` isn't found, make sure to add it to your `Path` or navigate to `C:\Program Files\LOVE`.
